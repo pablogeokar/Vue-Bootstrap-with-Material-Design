@@ -19,7 +19,7 @@
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
     "moment": "^2.11.1",
-    "npm": "^6.0.0",
+    "npm": "^5.8.0",
     "vue": "^2.5.2",
     "vue-chartjs": "^3.0.2",
     "vue-clickaway": "^2.2.2",

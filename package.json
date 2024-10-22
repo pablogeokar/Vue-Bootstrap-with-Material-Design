@@ -20,7 +20,7 @@
     "font-awesome": "^4.7.0",
     "moment": "^2.29.4",
     "npm": "^7.21.0",
-    "vue": "^2.5.17",
+    "vue": "^3.0.0",
     "vue-chartjs": "^3.0.2",
     "vue-clickaway": "^2.2.2",
     "vue-numeric": "^2.3.0",
